@@ -1,0 +1,362 @@
+# Entreprises Resource Plannings
+:toc:
+:sectnums:
+:!pagenums:
+
+## Introductions
+
+An ERP is an Entreprise Resource Planning that is a software used for handling all the day-to-day activities of a company. This can include a lot of things such as requirements, projects managements and manifacturer.
+
+_**ERP = Integration + Automations + Data Analysis**_
+
+### Core 
+
+At its core, an ERP integrate a lot of features inside one and only one system. So that it can streamline processes and automations across an entire organisation. That means, everything from a customer order, inventory management, financial recors or even human resources. Everything can be unified in only one system.
+
+## Features
+
+Although some ERP might has some features that some other ERP from other company doesn't, still some key features remains.
+
+### Financial management
+
+This module is handling all the acounting and all financial transactions. It also includes some features such as:
+
+. General ledgers
+. Account payable and receivable
+. Bedgeting
+. Financial reporting
+
+Using these tools, companies can track all the financial in real-time, ensure compliance with all regulations, and make data driven financial decisions.
+
+### Human resources management
+
+This module manage employees informations
+
+. Payroll
+. Recruitment
+. Training
+. Performance evaluations.
+
+By automating RH processing, companies can streamline automated tasks and can focus more on strategy initiative, talent development and employee engagement.
+
+### Supply Chain management
+
+This module is a core feature, this module covers everything from procurement of raw materials, to the delivery of a finished product.
+
+Features can include:
+
+. Inventory management
+. Order processing
+. Logistics
+. Supplier relationships management
+
+This helps businesses optimise their supply chain, reduce costs and improve customers satisfaction.
+
+### Manufacturing
+
+From manufacturing companies, the manufacturing module is essential. It manages the following features
+
+. Production planning
+. Scheduling
+. Quality control
+. Maintenance
+
+This module helps and ensuring that the production processes are efficients.
+
+Products ensure quality product, and equipments is maintained properly.
+
+### Customer Relationship Management (CRM)
+
+CRM is another vital component, it helps company manages interactions with current and potentials customers. CRM features include:
+
+. Sales force automations
+. Customer service management
+. Marketing automation
+
+This insure that a customer data is centralized, that is improving sales and customers services efforts.
+
+## Types of ERP
+
+There is a lot of types of ERP, and it often involves more than the features described above, however choosing the right ERP system for your company could be deterministic and how effectivly it meets your businesses needs.
+
+### On-Premise ERP
+
+First up, this is the traditionnal model of ERP deployment, On-Premise ERP is install locally on servers and hardwares. The organisation maintain full circle of the software including the followings:
+
+. Customization
+. Data management
+. Security
+
+This kind of system requires a lot of up-front investment in hardware and software, as well as on maintainance and IT support.
+
+For example, a lot of big factory company is looking for an On-Premise ERP, due to the level of controls and customization offers
+
+Company like EXXON mobile is using an ERP in On-Premise. To manage extensive operations and manage data securely
+
+### Cloud-Based ERP
+
+Cloud based ERP gains popularity in recent years. Cloud-Based ERP systems are hosted in a vendor servers, and access to the internet. 
+
+This module offers a great flexibility and lower up-front cost compared to On-Premise ERP. Cloud-Based ERP system are often sell as a subscription based that includes:
+
+. Updates
+. Maintenance
+. Support
+
+#### Example
+
+Many small and medium size businessses and startup prefer cloud-based ERP due to its cost effectiveness and ease up of use.
+
+Company like Spotify and AirBnB use cloud-based ERP system to manage rapidely their growing up operations and leverage the flexibility of the cloud.
+
+### Hybrid ERP
+
+This type of ERP combine both On-Premise and Cloud-Based ERP. Hybrid ERP systems maintain some ERP modules On-Premise while using other module in Cloud-Based ERP instead.
+
+This techniques provide
+
+. Control
+. Flexibility
+. Cost management
+
+#### Example
+
+Hybrid-ERP is often use by some organisations that has specifics needs for both _On-premise_ or _Cloud-Based_
+
+Let say a multinational organisation can use Hybrid-ERP to comply with regional data regulation while taking use of the cloud-based and scalability.
+
+### Industry specific ERP
+
+Industry Specific ERP are tailored to meet needs for a specific industry. These ERP systems comes with modules and features designed to address
+
+. Distinct requirements
+. Workflows of particulars industries
+
+#### Example
+
+A health-care ERP might include modules for the following
+
+. Patient management
+. Medical billing
+. Compliance with health regulations
+
+Industry specific ERP might be used by company that requires specials functionnality, none available in general ERP system.
+
+Hospitals might use specific ERP system such as _cerner_ or _epic_ while manufacturers might use system such as _infor_ or _plex_ to manage the operations.
+
+### Open-Source ERP
+
+Open-Source ERP systems are offering a unique approach to the Enterprise Resource Planning. Open-Source ERP system provides source code available to the public.
+
+Allowing organisations to sustomise and modify the softwares to meet to specific needs.
+
+These systems are free to use, still some cost will arize from:
+
+. Customization
+. Implementation
+. Support
+
+#### Example
+
+Open-Source ERP system are popular among startups, small organizations with specific customizations and
+
+For instance, a small business management might use:
+
+. Automated sells
+. Inventory
+. Accounting
+
+Taking advantage of the system flexibility in no cost of it.
+
+## Real-Time example of ERP implementation
+
+There is some ERP used for some company, and other ERP for other company depending on the usages
+
+### Difference between ERP for small enterprise and large businesses
+
+These systems include features for global operations, advanced analytics, and compliance management. Although ERP content is different from a small enterprise perspective to the large ones.
+
+#### Example Nike
+
+For example, the Nike company in the early 2000, Nike face significant challenges with the supply chain and inventory management.
+
+Nike struggle with mismatch demand and supply that leads to:
+
+. Excess inventory in some regions
+. shortages supply in other regions
+
+This inbalance result of a lot of sells opportunities and increase operationnal cost. That's where Nike decided to implement an ERP system to tackle this issue. 
+
+Nike chose SAP that is an ERP provider to integrate the global operations, and improve efficiency.
+
+The implementation was complexe, and involve significant investments. Nike has to:
+
+. Migrate a vast amount of data
+. Train employee
+. Adapt their processes to fit the new system
+
+Despite all the changes that needs to be took in place, the result were transformative. By the new ERP system in place, the Nike achieve greater visibility to its supply chain. Now they can:
+
+. Track inventory in real-time
+. Forecast demands more accurately
+. Optimize production schedules
+
+This leds to access inventory, lower cost and improve customer satisfactions. Nike ERP also improve collaboration across all the department of the company.
+
+. For example, marketing team can now communicate with the supply chain managers. Ensuring that promotionnal campaign align with product availability.
+. Financial team has instant access to data, enabling them to make informed budgeting decisions.
+
+Overral the Nike ERP system play a crucial role in streamlining the operation, and maintaining their competitivity across the market.
+
+#### Small Business example
+
+Imagine a growing e-commerce application that sales hand-made craft although the business started small, the owner needs to:
+
+. Managing orders
+. Inventory
+. Finances
+
+All of the three part written above are done manually by the owner of the application. As the business grown, the manager start to have more things to do, 
+
+And it even start to be more and more difficult to keep track of what needs to be done. 
+
+. Order are getting lost
+. Inventory became hard to manage
+. Financial records were becoming a nightmare
+
+The owner decided to implement an ERP system to tailored for small businesses. This system contains:
+
+. Order management
+. Inventory tracking
+. Financial accounting
+
+All of this into one software. Thanks to this ERP system, the owner can finally easily track orders, track the inventory and work for the financial accounting.
+
+This ERP save time but also reduce errors and improve the customer satisfaction. The owner can now make the business grow rather being bugged down by the administrative tasks.  
+
+#### Small enterprise
+
+Small businesses requires ERPs systems that has the following features
+
+. Implement
+. Cost-effective
+. Scalable as they grow
+
+This systems has user friendly interfaces and essentials features in order to manage core business fonctionnalities.
+
+#### Large enterprises
+
+On the other hand, large enterprises needs robust ERP systems which can:
+
+. Handle complex operations
+. High volumes of data
+. Advanced customizations
+
+## Benefits of ERP systems
+
+Now that we saw all the pros and cons of an ERP, we can now list all the benefits an ERP system is used for:
+
+### Imroved efficiency
+
+First and foremost, ERP system is improving efficiency by automatic routing tasks and integrating business processes.
+
+This reduce:
+
+. Manual data entry
+. Minimizes errors
+. Speed up operations
+
+with an ERP system, employee can focus on more strategic tasks, rather than begging bugged down with administrative work.
+
+### Better decision making
+
+ERPS system improve the decision you are making toward your business, by providing real-time data and powerful analytics tools. With instant access with accurate information, managers can make inform decisions
+
+. Whether it's adjusting production schedules
+. Reallocating resources
+. Launching new marketing campgaigns
+
+Having the right data in your figers is crutials. 
+
+### Enhance collaboration
+
+Using an ERP system, you will improve the enhancing of the collaboration across your company department's. Since all data are centralized, 
+
+Several department can easily share informations and work together more effectively.
+
+. This faster a more cohesive environment
+. Ensure that everyone is align with the companies goal
+
+### Scalability
+
+ERP systems are always scalable, as your business is growing you will be able to:
+
+. Add new features and modules 
+. Without disrupting the actuals features of your ERP
+
+This makes this systems a long term investment, for companies planning for futures expansion.
+
+### Regulatory compliances
+
+Lastly ERP systems are ensuring the regulatory compliance by automating necessary controls and providing audit trails.
+
+This is particularly import for industries with strict, regulatory requirements. Using ERP, businesses can now avoid legal issues and focus on what they do best. 
+
+## ERP implementation challenges
+
+While ERP systems offer a lot of benefits, implementing them comes with a lot of challenges
+
+### High cost
+
+First, the high cost, implementing an ERP system can be a significant investment, especially for small businesses. 
+
+This cost includes:
+
+. Software purchases
+. Customization
+. Data migration
+. Training
+. Ongoing maintenance
+
+However, many company see the long term benefits of an ERP provide to us better. It outweight the initial investment. 
+
+### Complexity
+
+Implementing an ERP system requires a careful planning and coordination, it involves:
+
+. Migrating data from an existing server
+. Configuring the software to fit with the enterprise
+. Training employees
+
+Without proper planning, the process can become overwhelming, and lead to disruption and daily operations. 
+
+### Change management
+
+Employee maight resist in adopting a new system, in the case at where they are accustomed to existing processes.
+
+It's crutial to let the employee follow the implementation process, 
+
+. Provide adequal trianing
+. Communicate the benefits of the new system
+
+### Data quality
+
+Lastly the data quality, insuring that data is accurate and consistent, is vital for an ERP, poor data quality can lead to incorrect report and float decisions making.
+
+Company should make time in cleaning and validating data before migrating it to the new system. 
+
+# Conclusion
+
+ERP system is a powerfull tool that transform the way the businesses are operate, by providing:
+
+. Integrating processes
+. Automating tasks
+. Providing valuable insights
+
+ERP systems are helping the organisations to run more effectively, whether your a small business of a global organisation, investing in an ERP, can drive a significant improvement, even set you up in a long term success.
+
+## Keys are:
+
+. Asses your business needs
+. Budget
+. Growth planns to make an informed decision
